@@ -9,11 +9,11 @@ I’m a **Data Science & Analytics Professional** with **2.8 years of experience
 - **Customer Segmentation & Behavioral Analysis**
 - **Predictive Modeling & Business Insights**
 
-## 🌱 I’m currently learning:
-- **Time Series Forecasting Techniques**
+## 🌱 I’m currently deepening my expertise in:
 - **Advanced Market Mix Modeling (MMM)**
-- **Machine Learning applications in Data Science**
+- **Integrating Machine Learning & AI into analytics workflows**
 - **Advanced Analytics with Python and R**
+- **Working with Large Language Models (LLMs)**
 
 ## 💞️ I’m looking to collaborate on:
 - **MMM-based projects**
